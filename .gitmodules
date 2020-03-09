@@ -1,7 +1,7 @@
-[submodule "rest-server"]
-	path = rest-server
-	url = http://192.168.202.74/octopus/rest-server-core.git
-
 [submodule "web-portal"]
 	path = web-portal
 	url = http://192.168.202.74/octopus/web-portal.git
+    branch = open
+[submodule "rest-server"]
+	path = rest-server
+	url = http://192.168.202.74/octopus/rest-server-core
